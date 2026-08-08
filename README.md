@@ -1,1 +1,1 @@
-# denki.github.io
+# denki
