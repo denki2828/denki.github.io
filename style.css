@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+    color: darkblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    padding: 30px;
+    margin: 50px;
+}
+
+.games {
+     display: flex;
+	gap: 20px;
+}
+.game-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+}
+.game-card img {
+    width: 300px;
+    height: auto;
+}
